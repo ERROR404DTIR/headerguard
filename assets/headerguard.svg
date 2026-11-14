@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" role="img" aria-labelledby="t d">
+<title id="t">HeaderGuard</title><desc id="d">Animated shield and HTTP response header lines</desc>
+<defs><linearGradient id="g"><stop stop-color="#89b4fa"/><stop offset="1" stop-color="#a6e3a1"/></linearGradient></defs>
+<rect width="1200" height="220" rx="24" fill="#181825"/>
+<path d="M0 175H1200" stroke="#313244"/>
+<path d="M105 44l55 18v43c0 40-27 60-55 77-28-17-55-37-55-77V62z" fill="none" stroke="url(#g)" stroke-width="6"/>
+<path d="M78 106l19 18 38-43" fill="none" stroke="#a6e3a1" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"><animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite"/></path>
+<text x="205" y="101" fill="#cdd6f4" font-family="monospace" font-size="55" font-weight="700">HEADERGUARD</text>
+<text x="208" y="145" fill="#a6adc8" font-family="monospace" font-size="20">HTTP SECURITY HEADERS · AUDIT · REPORT</text>
+<g stroke="#45475a" stroke-width="7" stroke-linecap="round"><path d="M800 62h280"/><path d="M800 94h225"/><path d="M800 126h255"/></g>
+<g fill="#a6e3a1"><circle cx="1098" cy="62" r="6"><animate attributeName="r" values="4;8;4" dur="1.8s" repeatCount="indefinite"/></circle><circle cx="1043" cy="94" r="6"/><circle cx="1073" cy="126" r="6"/></g>
+<text x="60" y="205" fill="#6c7086" font-family="monospace" font-size="15">ZERO DEPENDENCIES / ACTIONABLE FINDINGS</text>
+</svg>
